@@ -1,0 +1,73 @@
+# MPLAB X build folders
+build/
+dist/
+
+# Generated files
+*.o
+*.elf
+*.hex
+*.map
+*.d
+*.lst
+*.obj
+*.cof
+*.sym
+*.cod
+
+# Debug / cache files
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Files
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.backup
+*.swp
+*.swo
+
+# Imges
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.ico
+*.tiff
+
+# ejecutable files
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.app
+*.deb
+*.rpm
+*.msi
+
+Exe2013/
+
+#JetBrains IDEs
+.idea/
+*.iml
+*.iws
+# Visual Studio Code
+.vscode/
+.venvs/
+# Python virtual environments
+venv/
+env/
+cmake-build*/
