@@ -1,0 +1,22 @@
+3
+
+C M D
+Sintomas|
+¿Qué sintoma tiene?|
+0
+5 1 2 3 4 5 P
+-100 S A N N H S
+
+C S D
+Diagnostico|
+¿Conoce el diagnostico?|
+0
+3 7 8 9 P
+-100 S A N N H 
+
+N I D
+Temperatura|
+¿Cuantos grados  de temperatura tiene?|
+1
+6 D 37 38 36
+34 39 E S S N N N

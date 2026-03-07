@@ -1,0 +1,22 @@
+3
+
+C S D
+Sustancias|
+¿Qué ingirió la victima?|
+0
+7 1 2 3 4 5 6 7 P
+-100 S A N N H 
+
+C M D
+Estado|
+¿En qué estado se encuentra la victima?|
+0
+2 12 13 P
+-100 S A S N H S
+
+C S D
+Tipo de veneno|
+¿Qué tipo de veneno?|
+0
+4 8 9 10 11 P
+-100 S A N N H 

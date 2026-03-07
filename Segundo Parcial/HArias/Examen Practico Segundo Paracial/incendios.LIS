@@ -1,0 +1,31 @@
+Base de Conocimientos:d:\documents\school\universidad\semestre 5\inteligencia artificial\segundo parcial\harias\examen practico segundo paracial\incendios
+
+Base de Variables: 2
+Variable 1 Cualitativa Asignación Múltiple  Dinamismo: Dinámica
+Concepto: Material de combustion
+Texto: 
+¿Que material se incendia?
+Proposiciones Asociadas: 1 2 3 4 5 6 7 8 9 
+Textos: Tomados de las proposiciones
+Estilo del Menu: Vertical
+Peso para proposiciones No seleccionadas: -100.0
+Respuesta: Segura   Tipo de Respuesta: Afirmativa
+Opciones Disponibles: 
+ Todas
+
+Variable 2 Cualitativa Asignación Simple  Dinamismo: Dinámica
+Concepto: Tipo de incendio
+Texto: 
+¿Identifica el tipo de incendio?
+Proposiciones Asociadas: 10 11 12 13 
+Textos: Tomados de las proposiciones
+Estilo del Menu: Vertical
+Peso para proposiciones No seleccionadas: -100.0
+Respuesta: Segura   Tipo de Respuesta: Afirmativa
+Opciones Disponibles: 
+ Ninguna
+ No se sabe
+
+Fin: Visualización Base de Variables en memoria.
+
+
